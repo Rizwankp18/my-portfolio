@@ -14,23 +14,38 @@
     background-size: cover;
     background-repeat: no-repeat;
     padding: 20px 20px;
-    height: 600px;
+  
+    
+    
 }
-#home h1{
-    font-weight: 700;
-    text-align: center;
-    font-size: 80px;
-    margin-top: 100px;
-}
-@media screen and (max-width:420px){
-    #home h1{
-        font-size: 40px;
-    }
+
+@media screen and (min-width:440px){
+    
 #nam{
     font-size: 20px;
 }
-    
+#titles{
+    font-size: 30px;
 }
+
+}
+
+    
+@media screen and (min-width:400px){
+    
+#nam{
+    font-size: 20px;
+}
+#titles{
+    font-size: 12px;
+}
+
+}
+
+
+
+
+
 
 
 #icons a{
@@ -42,8 +57,9 @@
     background-color: rgba(38, 38, 38, 0.132);
     width: 65px;
     height: 150px;
-   margin-top: 200px;
-   margin-left: -0px;
+    margin-left: -20px;
+   
+  
    
 
 }
@@ -51,4 +67,13 @@
     background-color: rgba(0, 0, 255, 0.389);
     
 }
+#tex h1{
+    font-size: 80px;
+    text-align: center;
+    margin-top: 50px;
+}
 
+
+#tex p{
+    text-align: center;
+}
