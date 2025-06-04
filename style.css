@@ -14,6 +14,7 @@
     background-size: cover;
     background-repeat: no-repeat;
     padding: 20px 20px;
+    
   
     
     
@@ -27,6 +28,7 @@
 #titles{
     font-size: 30px;
 }
+
 
 }
 
@@ -58,6 +60,7 @@
     width: 65px;
     height: 150px;
     margin-left: -20px;
+    margin-top: 100px;
    
   
    
@@ -70,10 +73,46 @@
 #tex h1{
     font-size: 80px;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 
 #tex p{
     text-align: center;
+    margin-top: 20px;
+}
+#bts{
+    margin-top: 20px;
+}
+#abt{
+    font-size: 50px;
+    font-weight: 700;
+}
+#line{
+    width: 40px;
+    height: 5px;
+    
+    background-color: blue;
+ 
+    border-radius: 20px;
+ 
+}
+#p1{
+    font-size: 1.2rem;
+    color: #666;
+    max-width: 60rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+ 
+
+}
+#btnn{
+   padding: 10px 40px 10px 40px;
+   font-size: 25px;
+}
+#p2{
+    color: #666;
+}
+#mr{
+
 }
