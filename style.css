@@ -120,6 +120,7 @@
     background-size: cover;
     background-attachment: fixed;
     padding-bottom: 20px;
+    
 }
 #project p{
     line-height: 30px;
@@ -182,3 +183,14 @@ footer{
 hr .new{
     border: 20px solid rgb(129, 0, 0);
 }
+#navi{
+    background-attachment: fixed;
+    position: fixed;
+    background-size: cover;
+    width: 100%;
+}
+    
+     @media screen and (min-width:500) {
+
+        
+     }
